@@ -40,8 +40,10 @@ website:
         text: Project Team        
       - section: Stakeholder Workshops
         contents: 
-          - workshop_1.md
-          - workshop_2.md
+          - href: workshop_1.md
+          - text: Workshop One
+          - href: workshop_2.md
+          - text: Workshop Two
       - href: tools.md
         text: Tools
       - href: contact.md
