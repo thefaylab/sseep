@@ -1,11 +1,12 @@
 project: 
   type: website
+  output-dir: ../docs
   
 website: 
   page-navigation: true
   title: "Survey Simulation Experimentation and Evaluation Project" 
   site-url: "https://thefaylab.github.io/sseep" 
-  repo-url: https://github.com/thefaylab/sseep-www 
+  repo-url: https://github.com/thefaylab/sseep
   repo-actions: [edit, issue]
   
   page-footer:
@@ -21,7 +22,7 @@ website:
         href: https://thefaylab.com
         text: "thefaylab.com"
       - icon: github
-        href: https://github.com/thefaylab/sseep-www
+        href: https://github.com/thefaylab/sseep
         text: "SSEEP"
       - icon: twitter
         href: https://twitter.com/thefaylab
