@@ -1,2 +1,2 @@
-# sseep
-Survey Simulation Experimentation and Evaluation Project
+# Survey Simulation Experimentation and Evaluation Project
+Example quarto site for SSEEP.

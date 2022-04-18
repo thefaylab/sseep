@@ -1,0 +1,63 @@
+project: 
+  type: website
+  
+website: 
+  page-navigation: true
+  title: "Survey Simulation Experimentation and Evaluation Project" 
+  site-url: "https://thefaylab.github.io/sseep" 
+  repo-url: https://github.com/thefaylab/sseep-www 
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By thefaylab, 2022"
+    
+  sidebar:
+    logo: "images/sseep-hex.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://thefaylab.com
+        text: "thefaylab.com"
+      - icon: github
+        href: https://github.com/thefaylab/sseep-www
+        text: "SSEEP"
+      - icon: twitter
+        href: https://twitter.com/thefaylab
+        text: "TheFayLab Twitter"         
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.md
+        text: Welcome
+      - href: project-overview.md
+        text: Project Overview
+      - href: project-team.md
+        text: Project Team        
+      - section: Stakeholder Workshops
+        contents: 
+          - workshop_1.md
+          - workshop_2.md
+      - href: tools.md
+        text: Tools
+      - href: contact.md
+        text: Contact Us
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  
