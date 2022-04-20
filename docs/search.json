@@ -117,5 +117,12 @@
     "title": "Project Team",
     "section": "Next up: workflows",
     "text": "Next up: workflows\nIn the next sections we’ll see what this workflow looks like using different tools for editing your files. We’ll start off from the browser so you don’t need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. See all the tools that are supported at https://quarto.org/docs/get-started/.\nIf you don’t already have a workflow and to edit files and sync to GitHub from your computer, I recommend RStudio. You don’t need to know R to use RStudio, and it has powerful editor features that make for happy workflows."
+  },
+  {
+    "objectID": "workshop_2.html",
+    "href": "workshop_2.html",
+    "title": "Stakeholder Workshop Two",
+    "section": "",
+    "text": "The second SSEEP stakeholder workshop, held via Zoom in February 2022 focused on first reviewing a synthesis of workshop 1 results, and then discussions on the scenarios that the simulation framework would be used to assess.\nThe workshop was facilitated by Dr. Cate O’Keefe (Fishery Apps).\n\n\n\n\n\n\n\n\n\nReview the prioritized methods and approaches for simulation study design.\nDefine and describe a list of scenarios for mechanisms underlying change that will form the focus of the simulation evaluation. including: a) Ecosystem change; b) Survey and sampling change\nIdentify a set of performance metrics that will be used to compare the performance of alternatives for the defined scenarios."
   }
 ]

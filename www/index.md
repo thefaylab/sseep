@@ -1,9 +1,5 @@
 ---
 title: "SSEEP"
-subtitle: "Survey Simulation Experimentation and Evaluation Project" 
-date: "April 18, 2022"
-author: "thefaylab"
-citation_url: https://www.thefaylab.com
 slug: index
 ---
 
@@ -15,8 +11,7 @@ Begun in 2021, and focusing on the Northeast Fisheries Science Center's Bottom T
 
 See the **Project Overview** for more description of SSEEP, learn about the **Project Team**, and the year 1 **Stakeholder Workshops**.
 
----
-
+------------------------------------------------------------------------
 
 ![](images/smast-logo-blue-2x.png){width="437"}
 
