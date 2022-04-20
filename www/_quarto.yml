@@ -7,6 +7,7 @@ website:
   title: "Survey Simulation Experimentation and Evaluation Project" 
   site-url: "https://thefaylab.github.io/sseep" 
   repo-url: https://github.com/thefaylab/sseep
+  repo-branch: main/www
   repo-actions: [edit, issue]
   
   page-footer:

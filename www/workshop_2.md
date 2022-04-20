@@ -10,7 +10,7 @@ The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps).
 
 ### [Workshop 2 presentation](https://drive.google.com/file/d/1TeTFyx4IgWuOD0Qmbo_96LZhAtNsT-UF/view?usp=sharing)
 
-### **Draft workshop report**
+*Workshop report \[coming soon\]*
 
 ### Terms of Reference
 
