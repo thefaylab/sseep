@@ -5,7 +5,7 @@ slug: index
 
 # Survey Simulation Experimentation and Evaluation Project (SSEEP) {#welcome}
 
-Check for GH action...
+GF Check for GH action...
 
 The **Survey Simulation Experimentation and Evaluation Project (SSEEP)** is a CINAR-funded multi-institutional partnership project, led by Dr. Gavin Fay at the University of Massachusetts Dartmouth School for Marine Science and Technology as part of a BOEM-NOAA interagency agreement to develop a strategy for mitigating the effects of offshore wind energy development on NOAA Fisheries scientific surveys.
 
