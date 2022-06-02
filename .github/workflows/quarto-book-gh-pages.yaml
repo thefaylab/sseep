@@ -23,7 +23,7 @@ jobs:
       - name: Render book to all format
         # Add any command line argument needed
         run: |
-          cd www & quarto render 
+          quarto render www/
 
       - name: Deploy 🚀
         # only deploy when push to main

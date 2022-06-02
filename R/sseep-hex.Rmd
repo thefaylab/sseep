@@ -1,13 +1,13 @@
 
 ```{r}
 library(hexSticker)
-imgurl <- "images/survey-turbines.png"
+imgurl <- "../www/images/survey-turbines.png"
 s <- sticker(imgurl, package="sseep", p_size=10, p_y = 1.3, s_x=1, s_y=.75, s_width=.6,
         p_family = "Roboto",
         p_fontface = "italic",
         h_fill = "#075792",
         h_color = "#147db4",
-        filename="images/sseep-hex.png")
+        filename="../www/images/sseep-hex.png")
 plot(s)
 ```
 
