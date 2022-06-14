@@ -35,10 +35,18 @@ website:
     contents:
       - href: index.md
         text: Welcome
-      - href: project-overview.md
-        text: Project Overview
-      - href: project-team.md
-        text: Project Team        
+      - section: project-overview.md
+        contents: 
+          - href: project-overview.md
+          - text: Overview
+          - href: project-scope.md
+          - text: Project Scope
+          - href: project-timeline.md
+          - text: Project Timeline
+          - href: project-team.md
+          - text: Project Team
+          - href: project-funding.md
+          - text: Project Funding and Partnerships
       - section: Stakeholder Workshops
         contents: 
           - href: workshop_1.md
