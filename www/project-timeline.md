@@ -2,8 +2,6 @@
 title: Project Timeline
 ---
 
-### Project Timeline
-
 **Year 1 (2021-2022)**
 
 -   Stakeholder workshops to identify research questions and scenarios for simulation evaluations
