@@ -1,5 +1,5 @@
 ---
-title: Project Timeline
+title: "Timeline"
 ---
 
 **Year 1 (2021-2022)**
