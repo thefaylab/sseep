@@ -1,8 +1,6 @@
 ---
-title: Stakeholder Workshop One
+title: Workshop One (January 20-21, 2022)
 ---
-
-## Workshop 1 (January 20-21, 2022)
 
 The first SSEEP stakeholder workshop, held via Zoom in January 2022 was aimed at understanding questions of most interest for the simulation exercise.
 
@@ -10,7 +8,7 @@ The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps).
 
 ### [Workshop 1 presentation](https://drive.google.com/file/d/1-4sWMpURSkZ-_R7q2XSfMVmUwT9r3v7p/view?usp=sharing)
 
-### Draft workshop report
+*Workshop report \[coming soon\]*
 
 ### Terms of Reference
 

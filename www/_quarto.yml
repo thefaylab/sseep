@@ -37,8 +37,6 @@ website:
         text: Welcome
       - section: project-overview.md
         contents: 
-          - href: project-overview.md
-          - text: Overview
           - href: project-scope.md
           - text: Scope
           - href: project-timeline.md

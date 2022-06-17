@@ -2,7 +2,9 @@
 title: Project Team
 ---
 
-## Principal Investigators
+The Project Team is supported by a Steering Committee, and additional partners from NOAA Fisheries, and continued engagement with stakeholders representing wind and fishery science, management, and industry.
+
+#### Principal Investigators
 
 -   Dr. Gavin Fay, UMass Dartmouth - SMAST
 
@@ -10,7 +12,7 @@ title: Project Team
 
 -   Dr. Philip Politis, NEFSC
 
-## Project Team
+#### Project Team
 
 -   Dr. Catherine Foley, NEFSC
 
@@ -26,7 +28,7 @@ title: Project Team
 
 -   Dr. Cate O'Keefe, Fishery Apps
 
-## Steering Committee
+#### Steering Committee
 
 -   Doug Christel, GARFO
 
@@ -42,4 +44,4 @@ title: Project Team
 
 -   Dr. Michael Sissenwine, NEFMC
 
-
+#### Other Stakeholders
