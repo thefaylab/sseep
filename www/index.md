@@ -9,7 +9,7 @@ The **Survey Simulation Experimentation and Evaluation Project (SSEEP)** will us
 
 Begun in 2021, SSEEP is a Cooperative Institute of the North Atlantic Region (CINAR) funded, multi-institutional partnership project led by Dr. Gavin Fay at the University of Massachusetts Dartmouth School for Marine Science and Technology (SMAST) as part of a [Bureau of Ocean Energy Management (BOEM) and National Oceanic and Atmospheric Administration (NOAA) interagency agreement](https://www.boem.gov/bureau-ocean-energy-management-and-national-oceanic-and-atmospheric-administration) to develop a strategy for mitigating the effects of offshore wind energy development on NOAA Fisheries scientific surveys.
 
-For more information on the project, you can visit the [**Project Overview**](project-overview.md) section and learn about the [**Project Team**](project-team.md), or the **Stakeholder Workshops** section.
+For more information on the project, you can visit the [Project Overview](project-overview.md) section and learn about the [Project Team](project-team.md), or the **Stakeholder Workshops** section.
 
 ------------------------------------------------------------------------
 
