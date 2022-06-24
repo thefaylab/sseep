@@ -15,7 +15,7 @@ website:
     left: "&copy; CC-By thefaylab, 2022"
     
   sidebar:
-    logo: "images/sseep-noback.png"
+    logo: "images/sseep-3-noback.png"
     pinned: true
     align: center
     tools: 
