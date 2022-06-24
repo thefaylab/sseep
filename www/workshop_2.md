@@ -8,7 +8,7 @@ The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps).
 
 ### [Workshop 2 presentation](https://drive.google.com/file/d/1TeTFyx4IgWuOD0Qmbo_96LZhAtNsT-UF/view?usp=sharing)
 
-*Workshop report \[coming soon\]*
+### [Workshop 2 report](https://drive.google.com/file/d/13yO5g9niezIN4kzaNGesiOA9eDdStrb1/view?usp=sharing)
 
 ### Terms of Reference
 
