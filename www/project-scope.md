@@ -2,7 +2,7 @@
 title: "Scope"
 ---
 
-SSEEP will use a participatory design approach to develop and apply a spatial observation simulation model framework to understand the implications of changes to fishery independent surveys on the US Northeast Continental Shelf Large Marine Ecosystem as a result of spatial overlap with offshore renewable wind energy installations. Our simulator will emulate key attributes of the Northeast US Bottom Trawl Survey to evaluate the efficacy and statistical properties of changes to survey design and also assess the performance of alternative methods for monitoring groundfish distribution, abundance, and trends.
+SSEEP will use a participatory design approach to develop and apply a spatial observation simulation modeling framework to understand the potential impacts to fishery-independent surveys on the US Northeast Continental Shelf Large Marine Ecosystem resulting from spatial overlap with offshore wind energy development. The simulator will mimic key attributes of the Northeast US Bottom Trawl Survey's survey design to evaluate the efficacy and statistical properties of anticipated changes, and to assess the performance of alternative methods for monitoring groundfish distribution, abundance, and trends.
 
 Guided by a series of stakeholder workshops and collaboration with our Steering Committee and NOAA NEFSC's offshore wind Working Group, SSEEP will build from existing spatial analyses to develop and apply a spatial model framework that can be used in simulation testing to understand the performance of various alternatives for the statistical design of Northeast Bottom Trawl Surveys and complementary sampling, given parameterization of the observation model for a key set of groundfish species.
 

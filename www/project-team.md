@@ -24,24 +24,24 @@ The Project Team is supported by a Steering Committee, and additional partners f
 
 -   Angelia Miller, UMassD-SMAST
 
--   Catalina Roman, UMssD-SMAST
+-   Catalina Roman, UMassD-SMAST
 
 -   Dr. Cate O'Keefe, Fishery Apps
 
 #### Steering Committee
 
--   Doug Christel, GARFO
+-   Doug Christel, Greater Atlantic Regional Fisheries Office (GARFO)
 
 -   Dr. Kathryn Ford, NEFSC
 
--   Jim Gartland, VIMS
+-   Jim Gartland, Virgina Institute of Marine Science (VIMS)
 
 -   Ursula Howson, BOEM
 
--   Dr. Michael Pol, ROSA
+-   Dr. Michael Pol, Responsible Offshore Science Alliance (ROSA)
 
--   Dr. David Secor, UMCES
+-   Dr. David Secor, University of Maryland Center for Environmental Science (UMCES)
 
--   Dr. Michael Sissenwine, NEFMC
+-   Dr. Michael Sissenwine, Northeast Fishery Management Council (NEFMC)
 
-#### Other Stakeholders
+
