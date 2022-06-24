@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://thefaylab.github.io/sseep/workshop_1.html</loc>
-    <lastmod>2022-06-17T14:36:54.792Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/workshop_2.html</loc>
-    <lastmod>2022-06-17T14:36:55.908Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/project-scope.html</loc>
-    <lastmod>2022-06-17T14:36:56.312Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/project-overview.html</loc>
-    <lastmod>2022-06-17T14:36:56.704Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/tools.html</loc>
-    <lastmod>2022-06-17T14:36:57.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/index.html</loc>
-    <lastmod>2022-06-17T14:36:57.388Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/project-funding.html</loc>
-    <lastmod>2022-06-17T14:36:57.752Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/quarto-overview.html</loc>
-    <lastmod>2022-06-17T14:36:58.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.github.io/sseep/contact.html</loc>
-    <lastmod>2022-06-17T14:36:58.492Z</lastmod>
+    <loc>https://thefaylab.github.io/sseep/project-timeline.html</loc>
+    <lastmod>2022-06-24T19:08:08.940Z</lastmod>
   </url>
   <url>
     <loc>https://thefaylab.github.io/sseep/project-team.html</loc>
-    <lastmod>2022-06-17T14:36:58.836Z</lastmod>
+    <lastmod>2022-06-24T19:08:10.008Z</lastmod>
   </url>
   <url>
-    <loc>https://thefaylab.github.io/sseep/project-timeline.html</loc>
-    <lastmod>2022-06-17T14:36:59.192Z</lastmod>
+    <loc>https://thefaylab.github.io/sseep/index.html</loc>
+    <lastmod>2022-06-24T19:08:10.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/workshop_2.html</loc>
+    <lastmod>2022-06-24T19:08:10.724Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/workshop_1.html</loc>
+    <lastmod>2022-06-24T19:08:11.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/project-funding.html</loc>
+    <lastmod>2022-06-24T19:08:11.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/contact.html</loc>
+    <lastmod>2022-06-24T19:08:11.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/tools.html</loc>
+    <lastmod>2022-06-24T19:08:12.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/quarto-overview.html</loc>
+    <lastmod>2022-06-24T19:08:12.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/project-scope.html</loc>
+    <lastmod>2022-06-24T19:08:12.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/sseep/project-overview.html</loc>
+    <lastmod>2022-06-24T19:08:13.160Z</lastmod>
   </url>
 </urlset>
