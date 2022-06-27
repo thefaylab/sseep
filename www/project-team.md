@@ -2,11 +2,11 @@
 title: "Project Team"
 ---
 
-The Project Team is supported by a Steering Committee, and additional partners from NOAA Fisheries, and continued engagement with stakeholders representing wind and fishery science, management, and industry.
+The Project Team is supported by a Steering Committee, NEFSC's Offshore Wind Working Group, and continued engagement with stakeholders representing wind and fishery science, management, and industry.
 
 #### Principal Investigators (PIs)
 
--   Dr. Gavin Fay, UMass Dartmouth - SMAST
+-   Dr. Gavin Fay, UMassD-SMAST
 
 -   Dr. Andrew Lipsky, NEFSC
 

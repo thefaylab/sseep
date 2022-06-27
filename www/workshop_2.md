@@ -2,15 +2,11 @@
 title: Workshop Two (February 17-18, 2022)
 ---
 
-The second SSEEP stakeholder workshop, held via Zoom in February 2022 focused on first reviewing a synthesis of workshop 1 results, and then discussions on the scenarios that the simulation framework would be used to assess.
-
-The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps).
-
-### [Workshop 2 presentation](https://drive.google.com/file/d/1TeTFyx4IgWuOD0Qmbo_96LZhAtNsT-UF/view?usp=sharing)
-
-### [Workshop 2 report](https://drive.google.com/file/d/13yO5g9niezIN4kzaNGesiOA9eDdStrb1/view?usp=sharing)
+The second SSEEP stakeholder workshop was held remotely February 17-18 of 2022 via Zoom, and was postponed from its original date to provide appropriate time after [Workshop One](workshop_1.md). The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps), with content for the process agenda developed by various members of the SSEEP project team. Additional plenary facilitation support was provided by Dr. Gavin Fay (UMassD-SMAST). The workshop focused on first reviewing a synthesis of Workshop One results, and then defining a set of scenarios for the mechanisms underlying change (species productivity, distribution) that the simulation framework would be used to assess.
 
 ### Terms of Reference
+
+The project team, along with input from the Steering Committee, drafted terms of reference (TORs) to direct the modeling and analytical framework for the project, as well as to facilitate breakout discussions throughout the second stakeholder workshop.
 
 1.  **Review the prioritized methods and approaches for simulation study design.**
 
@@ -45,3 +41,8 @@ The workshop was facilitated by Dr. Cate O'Keefe (Fishery Apps).
         3.  Availability of resources for supplemental sampling
 
 3.  **Identify a set of performance metrics that will be used to compare the performance of alternatives for the defined scenarios.**
+
+### Workshop Two Documents
+
+-   [Workshop presentation](https://drive.google.com/file/d/1TeTFyx4IgWuOD0Qmbo_96LZhAtNsT-UF/view?usp=sharing)
+-   [Workshop report](https://drive.google.com/file/d/13yO5g9niezIN4kzaNGesiOA9eDdStrb1/view?usp=sharing)
