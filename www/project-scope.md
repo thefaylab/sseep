@@ -2,41 +2,36 @@
 title: "Scope"
 ---
 
-SSEEP will use a participatory design approach to develop and apply a spatial observation simulation modeling framework to understand the potential impacts to fishery-independent surveys on the US Northeast Continental Shelf Large Marine Ecosystem resulting from spatial overlap with offshore wind energy development. The simulator will mimic key attributes of the Northeast US Bottom Trawl Survey's survey design to evaluate the efficacy and statistical properties of anticipated changes, and to assess the performance of alternative methods for monitoring groundfish distribution, abundance, and trends.
+SSEEP will use a participatory design approach to develop and apply a spatial observation simulation modeling framework to quantify the potential impacts to fishery-independent surveys on the US Northeast Continental Shelf Large Marine Ecosystem resulting from spatial overlap with offshore wind energy development. The observation simulator will model key attributes of the NMFS NEFSC Bottom Trawl Survey's survey design to evaluate the efficacy and statistical properties of anticipated changes, and to assess the performance of alternative methods for monitoring groundfish distribution, abundance, and trends.
 
-Guided by a series of stakeholder workshops and collaboration with our Steering Committee and NOAA NEFSC's offshore wind Working Group, SSEEP will build from existing spatial analyses to develop and apply a spatial model framework that can be used in simulation testing to understand the performance of various alternatives for the statistical design of Northeast Bottom Trawl Surveys and complementary sampling, given parameterization of the observation model for a key set of groundfish species.
+Guided by a series of stakeholder workshops, and collaboration with our Steering Committee and NEFSC's Offshore Wind Working Group, SSEEP will build from existing spatial analyses to parameterize a spatial observation model for a key set of groundfish species. Simulation testing based off the parameterization and scenarios of interest from the stakeholder workshops, will quantify the performance of potential alternatives for and changes to the statistical survey design of the Bottom Trawl Surveys, complementary sampling, and/or additional survey technologies. The performance of these alternatives will be compared to the traditional random stratified trawl survey design in order to identify which strategies can mitigate or address the impacts of offshore wind development. The spatial simulation modeling framework developed through this project can be generalized to other geographies and other applications of spatial overlaps in multi-use living marine resource management. 
 
-We will develop a spatial simulation model framework that can be generalized to other geographies
-and other applications of spatial overlaps in multi-use living marine resource management. We will use our model framework to conduct simulation testing experiments to understand the statistical performance of changes to survey designs given the scenarios of interest from the stakeholder workshops, and to understand the extent to which the augmentation of fishery independent monitoring with additional survey technologies can mitigate or address the impacts of changes to the traditional random stratified trawl survey design.
-
-The intent of these analyses is to understand the effects of changes in scientific monitoring as a result of increases in ocean use on the data used to support management advice and knowledge of ecosystem status as well as providing a framework for testing how scientific monitoring can adapt to meet both current and future anticipated needs as part of coordinated, integrative approaches to ecosystem-based management of marine and fishery systems while continuing to support best available science.
-
+The intent of these analyses is to understand the effects of changes to scientific monitoring and the monitoring data used support management advice and knowledge of ecosystem status as a result of increases in ocean use. Additionally, the project aims to provide a framework for testing how scientific monitoring can adapt to meet both current and future anticipated needs as well as a framework for coordinated, integrative approaches to ecosystem-based management of marine and fishery systems to support best available science. 
 
 ### Objectives
 
-**(1) Conduct and facilitate stakeholder workshops** aimed at understanding the questions most of
-interest for the simulation exercise to answer, including the alternatives for survey design and statistical performance measures, and to define a list of scenarios for the mechanisms underlying change (species productivity, distribution) that will form the focus of simulation evaluation.
+**(1) Host stakeholder workshops** aimed at understanding and prioritizing research questions for the simulation exercise to answer, such as alternatives for survey design and statistical performance measures, and to define a list of scenarios for the mechanisms underlying change (e.g. species productivity and distribution) that will form the focus of simulation evaluation.
 
-**(2) Synthesize and perform statistical analyses** of the Northeast Bottom Trawl Survey and spatial
-overlap with wind areas to parameterize an observation model.
+**(2) Synthesize and perform statistical analyses** of the NEFSC Bottom Trawl Survey and its spatial overlap with wind areas to parameterize an observation model.
 
-**(3) Develop and parameterize a spatially explicit model simulator framework** that is capable of emulating observational data from the Northeast Bottom Trawl Surveys and supplemental monitoring methods for a key set of groundfish species
+**(3) Develop and parameterize a spatially-explicit model simulator framework** that is capable of mirroring historical, observational data from the NEFSC Bottom Trawl Surveys and other potentially supplemental monitoring methods for a key set of groundfish species.
 
-**(4) Conduct simulation testing** to evaluate the statistical performance of a stakeholder-based set of plausible alternatives for survey design given a set of ecosystem scenarios and quantify their resulting uncertainty on key data streams used in fishery stock assessment
+**(4) Conduct simulation testing** to evaluate the statistical performance of a stakeholder-based set of plausible alternatives for survey design given a set of ecosystem scenarios, and quantify their resulting uncertainty on key data streams used in fishery stock assessment.
 
-### Anticipated Project Outcomes
+### Anticipated Project Deliverables
 
--   Paths forward for changes to monitoring strategies and their likely consequences in terms of maintaining monitoring data integrity
+The project aims to produce and deliver 
 
--   Relative ranking for prioritizing changes to survey designs and strategies based on the expected changes for different scenarios and statistical performance
+-   Guidance for changes to monitoring strategies and their likely consequences in terms of maintaining monitoring data integrity;
 
--   Description of desired statistical properties for supplemental sampling strategies to mitigate displacement of bottom trawl survey from wind farm areas, to inform potential new monitoring approaches (e.g., what sorts of data, what level of sampling effort and precision)
+-   Rankings to prioritize changes to survey designs and strategies based on the expected changes for different scenarios and statistical performance;
 
--   Good enough practices and methods for integrating different sampling methods with heterogeneous environmental surveys that are associated with different spatial processes
+-   Descriptions of desired statistical properties for supplemental sampling strategies to mitigate displacement of bottom trawl surveys from wind farm areas to inform potential new monitoring approaches (e.g., what sorts of data, what level of sampling effort and precision);
 
--   Which expected scenarios (species, or species distribution drivers) might be most likely to be at risk
+-   Minimum requirements for integrating different sampling methods with heterogeneous environmental surveys that are associated with different spatial processes;
+
+-   A list of expected scenarios (species, or species distribution drivers) which might be most likely to be at risk; and 
 
 -   Likely implications of changes to survey sampling for scientific advice (e.g., relative impact on uncertainty in assessments), that can be quantified using Management Strategy Evaluation (MSE).
 
-While the initial implementation will be focused on groundfish in the Northeast Bottom Trawl Survey, the model framework developed for this project will be written in an open, general approach such that it can
-be applied to other instances of multiple ocean use management/overlap, and also in different geographies. The project will also provide training in quantitative fisheries science and collaborative/participatory model building to graduate students and early career scientific staff at the University of Massachusetts Dartmouth.
+While the initial implementation will be focused on groundfish in the NEFSC Bottom Trawl Survey, the modeling framework developed for this project will be written in an open, general approach such that it can be applied to other instances of multiple ocean use management/overlap as well as to different geographies. The project will also provide training in quantitative fisheries science, and in collaborative and participatory model building to graduate students and early career scientific staff at the University of Massachusetts Dartmouth.
