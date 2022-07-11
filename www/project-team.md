@@ -8,9 +8,9 @@ The Project Team is supported by a Steering Committee, NEFSC's Offshore Wind Wor
 
 -   Dr. Gavin Fay, UMassD-SMAST
 
--   Dr. Andrew Lipsky, NEFSC
+-   Andrew Lipsky, NEFSC
 
--   Dr. Philip Politis, NEFSC
+-   Philip Politis, NEFSC
 
 #### Project Team
 
