@@ -18,15 +18,15 @@ The Project Team is supported by a Steering Committee, NEFSC's Offshore Wind Wor
 
 -   Dr. Kathryn Ford, NEFSC
 
--   Elizabeth McGovern, NEFSC
-
 -   Madeleine Guyant, UMassD-SMAST
+
+-   Elizabeth McGovern, NEFSC
 
 -   Angelia Miller, UMassD-SMAST
 
--   Catalina Roman, UMassD-SMAST
-
 -   Dr. Cate O'Keefe, Fishery Apps
+
+-   Catalina Roman, UMassD-SMAST
 
 #### Steering Committee
 
